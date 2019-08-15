@@ -186,7 +186,7 @@ MMS finnes, men fant ikke fulltekst hos NB:
 999324491584702204
 ```
 
-Invalid MMS (antakelig feil):
+Invalid MMS (feilkopiert?):
 
 ```
 991144059564702201
@@ -194,17 +194,20 @@ Invalid MMS (antakelig feil):
 999323720664702201
 ```
 
-Ugyldige URN-er:
+Ugyldige URN-er: (for korte, kanskje feilkopiert)
 
+```
 http://urn.nb.no/URN:NBN:no-2756  999505094774702201
 http://urn.nb.no/URN:NBN:no-2947  990712887164702201
+```
 
 Flerbindsverk o.l.:
 
-Norges historie bind 1 og 2   http://urn.nb.no/URN:NBN:no-27566   990302993144702201 990220637904702201
+```
+Norges historie bind 1 og 2   http://urn.nb.no/URN:NBN:no-27566   990302993144702201 990220637904702201
 http://urn.nb.no/URN:NBN:no-2954  999521498264702201 999521500184702201 999521500774702201 999521504174702201  999521506974702201
 http://URN:NBN:no-30968   990303368804702201
 http://urn.nb.no/URN:NBN:no-32520 990122503334702201 990122503684702201
 http://urn.nb.no/URN:NBN:no-22286 http://urn.nb.no/URN:NBN:no-25592       09ns01938   990222996454702201
 http://urn.nb.no/URN:NBN:no-29482     87GA55447
-
+```
